@@ -1,24 +1,54 @@
-O problema escolhido é: dificuldade dos estudantes em organizar o tempo de estudo e cumprir tarefas escolares.
+PROJETO: ESTUDAFÁCIL
 
-Ajude a transformar esse problema em uma frase clara e bem formulada, que possa ser usada como ponto de partida do projeto.
+Nome da solução:
+EstudaFácil
 
-A frase deve:
+Problema:
+Estudantes do ensino fundamental e médio têm dificuldade em organizar o tempo de estudo e cumprir as tarefas escolares dentro dos prazos, o que prejudica o aprendizado e o desempenho escolar.
 
-– deixar claro quem é afetado
-– explicar qual é a dificuldade principal
-– indicar a consequência desse problema
-– usar linguagem simples e direta
+Persona:
+Estudantes do ensino fundamental e médio que possuem uma rotina corrida, esquecem prazos de atividades, têm dificuldade para organizar os estudos e desejam melhorar seu desempenho escolar.
 
-Gere 3 variações da frase. Não proponha soluções.
+Descrição da solução:
+O EstudaFácil é um aplicativo que ajuda estudantes a organizar sua rotina de estudos. O aplicativo reúne calendário, cronograma de estudos, tarefas, lembretes de provas e trabalhos em um único lugar, facilitando o planejamento e o acompanhamento das atividades escolares.
 
-Variação 1
+Tela inicial:
 
-Estudantes do ensino fundamental e médio têm dificuldade em organizar o tempo de estudo e em cumprir tarefas escolares dentro dos prazos, o que prejudica seu desempenho e aprendizado.
+* Nome do aplicativo (EstudaFácil)
+* Calendário semanal
+* Próximas tarefas
+* Cronograma de estudos
+* Lembretes
+* Botão "Adicionar Tarefa"
+* Menu inferior com Início, Cronograma, Tarefas e Perfil
 
-Variação 2
+Segunda tela:
+Nome: Meu Cronograma
 
-Alunos enfrentam problemas para gerenciar suas atividades escolares e o tempo dedicado aos estudos, o que resulta em atrasos na entrega de tarefas e queda no rendimento escolar.
+Função:
+Permitir que o estudante organize seus horários de estudo e acompanhe todas as atividades da semana.
 
-Variação 3
+Elementos:
 
-Muitos estudantes não conseguem organizar suas rotinas de estudo e tarefas escolares de forma eficiente, o que afeta suas notas e dificulta o processo de aprendizagem.
+* Calendário semanal
+* Horários por disciplina
+* Lista de tarefas
+* Indicador de progresso
+* Botão para editar cronograma
+* Lembretes de provas e trabalhos
+
+Benefícios:
+
+* Melhor organização do tempo
+* Redução de atrasos nas tarefas
+* Melhor planejamento dos estudos
+* Aumento do rendimento escolar
+* Menor estresse com prazos
+
+Aprendizados com o teste:
+
+1. Os colegas entenderam rapidamente que o aplicativo serve para organizar estudos e tarefas.
+2. Foi identificado que alguns botões poderiam ser mais claros para facilitar a navegação.
+
+Conclusão:
+O EstudaFácil é uma solução simples e prática para ajudar estudantes a organizar seus estudos, acompanhar tarefas e melhorar seu desempenho escolar por meio de um planejamento mais eficiente.
