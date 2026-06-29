@@ -1,54 +1,52 @@
-PROJETO: ESTUDAFÁCIL
+📱 PROJETO: ESTUDAFÁCIL
+🧩 Nome da solução
 
-Nome da solução:
 EstudaFácil
 
-Problema:
-Estudantes do ensino fundamental e médio têm dificuldade em organizar o tempo de estudo e cumprir as tarefas escolares dentro dos prazos, o que prejudica o aprendizado e o desempenho escolar.
+🎯 Problema
 
-Persona:
-Estudantes do ensino fundamental e médio que possuem uma rotina corrida, esquecem prazos de atividades, têm dificuldade para organizar os estudos e desejam melhorar seu desempenho escolar.
+Estudantes do ensino fundamental e médio têm dificuldade em organizar o tempo de estudo e cumprir tarefas escolares dentro dos prazos. Isso prejudica o aprendizado, causa atrasos e afeta o desempenho escolar.
 
-Descrição da solução:
-O EstudaFácil é um aplicativo que ajuda estudantes a organizar sua rotina de estudos. O aplicativo reúne calendário, cronograma de estudos, tarefas, lembretes de provas e trabalhos em um único lugar, facilitando o planejamento e o acompanhamento das atividades escolares.
+👥 Persona
 
-Tela inicial:
+Estudantes do ensino fundamental e médio que possuem uma rotina corrida, frequentemente esquecem prazos de atividades, têm dificuldade para organizar os estudos e desejam melhorar seu desempenho escolar.
 
-* Nome do aplicativo (EstudaFácil)
-* Calendário semanal
-* Próximas tarefas
-* Cronograma de estudos
-* Lembretes
-* Botão "Adicionar Tarefa"
-* Menu inferior com Início, Cronograma, Tarefas e Perfil
+💡 Descrição da solução
 
-Segunda tela:
-Nome: Meu Cronograma
+O EstudaFácil é um aplicativo que ajuda estudantes a organizarem sua rotina de estudos de forma simples e eficiente. Ele reúne em um só lugar calendário, cronograma de estudos, tarefas, lembretes de provas e trabalhos.
 
-Função:
-Permitir que o estudante organize seus horários de estudo e acompanhe todas as atividades da semana.
+Com isso, o usuário consegue planejar melhor suas atividades, acompanhar o que precisa ser feito e manter o controle da sua rotina escolar.
+
+📱 Protótipo (telas)
+🏠 Tela inicial
+Nome do aplicativo (EstudaFácil)
+Calendário semanal
+Próximas tarefas
+Cronograma de estudos
+Lembretes
+Botão “Adicionar Tarefa”
+Menu inferior: Início, Cronograma, Tarefas e Perfil
+📅 Tela: Meu Cronograma
+
+Função: organizar horários de estudo e acompanhar atividades da semana.
 
 Elementos:
 
-* Calendário semanal
-* Horários por disciplina
-* Lista de tarefas
-* Indicador de progresso
-* Botão para editar cronograma
-* Lembretes de provas e trabalhos
+Calendário semanal
+Horários por disciplina
+Lista de tarefas
+Indicador de progresso
+Botão para editar cronograma
+Lembretes de provas e trabalhos
+✅ Benefícios
+Melhor organização do tempo
+Redução de atrasos nas tarefas
+Melhor planejamento dos estudos
+Aumento do rendimento escolar
+Menor estresse com prazos
+🧪 Aprendizados com o teste
+Os colegas entenderam rapidamente que o aplicativo serve para organizar estudos e tarefas.
+Foi identificado que alguns botões poderiam ser mais claros para facilitar a navegação.
+🧠 Conclusão
 
-Benefícios:
-
-* Melhor organização do tempo
-* Redução de atrasos nas tarefas
-* Melhor planejamento dos estudos
-* Aumento do rendimento escolar
-* Menor estresse com prazos
-
-Aprendizados com o teste:
-
-1. Os colegas entenderam rapidamente que o aplicativo serve para organizar estudos e tarefas.
-2. Foi identificado que alguns botões poderiam ser mais claros para facilitar a navegação.
-
-Conclusão:
-O EstudaFácil é uma solução simples e prática para ajudar estudantes a organizar seus estudos, acompanhar tarefas e melhorar seu desempenho escolar por meio de um planejamento mais eficiente.
+O EstudaFácil é uma solução simples e prática para ajudar estudantes a organizarem seus estudos, acompanharem tarefas e melhorarem seu desempenho escolar por meio de um planejamento mais eficiente.
